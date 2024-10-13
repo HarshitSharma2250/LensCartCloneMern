@@ -5,6 +5,7 @@
 <br/>
 ### Frontend Deployed URL 👉 [Click here](https://eyescare.vercel.app/)
 ### Backend API 👉 [Click here](https://github.com/HarshitSharma2250/lenscart_clone)
+### Backend testing 👉 [Click here](https://lenscart-clone-project.onrender.com/home)
 <br/>
  <h2 align="left">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
