@@ -1,5 +1,4 @@
 <h1 align="center">✨✨Welcome to Lenskart_Clone✨✨</h1>
-<h3 align="center">💻Project Unique Name : EYECARE ✈️</h3>
 <br/>
 <h3 align="justify" width="80%">Lenskart is an Indian online eyewear retailer, based in Delhi and founded in 2010 by Peyush Bansal, Amit Chaudhary, and Sumeet Kapahi. They offer eyeglasses, sunglasses, contact lenses, and accessories, with services such as free home trial and virtual try-on, and operate physical stores across India.</h3>
 <br/>
